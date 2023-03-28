@@ -5,7 +5,6 @@ Mi nombre es Sergio Calalpa Torres, soy un programador Full Stack, tengo conocim
 |Lenguajes de Programación |
 |--------------------------|
 |`JavaScript y JQuery`     |
-|`Html`                    |
 |`C#`                      |
 |`Visual Basic`            |
 |`Python`                  |
