@@ -9,6 +9,11 @@ Mi nombre es Sergio Calalpa Torres, soy un programador Full Stack, tengo conocim
 |`Visual Basic`            |
 |`Python`                  |
 |`Java`                    |
+|`TypeScript`              |
+|`Angular CLI`             |
+|`NodeJS`                  |
+|`Astro`                   |
+|`Svelte`                  |
 
 Con los cuales he desarrollado diferentes proyectos a lo largo del tiempo al igual que he utilizado diferentes gestores de bases de datos para dichos proyectos
 
@@ -18,6 +23,7 @@ Con los cuales he desarrollado diferentes proyectos a lo largo del tiempo al igu
 |`MySql`                   |
 |`Sql Server`              |
 |`Mongo DB`                |
+|`Postgres`                |
 
 ## Titulo
 
@@ -38,6 +44,4 @@ He adquirido conocimientos como creación y consumo de servicios SOAP y REST, co
 
 |Lenguajes que me encuentro aprendiendo |
 |---------------------------------------|
-|`Angular`                              |
-|`TypeScript`                           |
-|`node.js`                              |
+|`React`                                |
